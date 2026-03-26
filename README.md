@@ -198,13 +198,3 @@ brew install starship atuin
 # Developer tools
 brew install just jq yq httpie
 ```
-
----
-
-## Sources
-
-- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-- [awesome-rust-tools](https://github.com/unpluggedcoder/awesome-rust-tools)
-- [rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities)
-- [Terminal Trove](https://terminaltrove.com/new/)
-- [Product Hunt CLI Tools](https://www.producthunt.com/categories/command-line-tools)
