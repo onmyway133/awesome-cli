@@ -2,6 +2,8 @@
 
 A curated list of modern CLI tools and terminal apps with >1k GitHub stars.
 
+![](images/banner.png)
+
 ---
 
 ## Modern Unix Replacements
