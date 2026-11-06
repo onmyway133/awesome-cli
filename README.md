@@ -116,6 +116,7 @@ Tools that replace classic Unix commands with faster, more user-friendly alterna
 | [containers/podman](https://github.com/containers/podman) | ![Stars](https://img.shields.io/github/stars/containers/podman?style=flat) | Daemonless container engine for OCI containers |
 | [stern/stern](https://github.com/stern/stern) | ![Stars](https://img.shields.io/github/stars/stern/stern?style=flat) | Multi pod and container log tailing for Kubernetes |
 | [ahmetb/kubectx](https://github.com/ahmetb/kubectx) | ![Stars](https://img.shields.io/github/stars/ahmetb/kubectx?style=flat) | Switch between Kubernetes contexts and namespaces |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | ![Stars](https://img.shields.io/github/stars/flisk-sh/flisk?style=flat) | Run every part of your app (API, website, workers, AI agents, database) on your computer with one command, Docker optional |
 
 ---
 
